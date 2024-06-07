@@ -1,0 +1,94 @@
+/* * {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+nav {
+  background-color: #555;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 1rem;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+main {
+  padding: 2rem;
+}
+
+main h2 {
+  margin-bottom: 1rem;
+}
+
+main ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+main ul li {
+  margin-bottom: 1rem;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+} */
+
+
+
+/********** Common CSS Starts **********/  
+* {
+  margin:0px;
+  padding:0px;
+}
+html, body {
+  font-family: Roboto, sans-serif, arial;
+  font-size: 14px;
+  color: #242424;
+}
+.container {
+  width: 1200px;
+  margin:0px auto;
+}
+.main-section {
+  width: 100%;
+  float: left;
+  padding:50px 0px 40px 0px;
+}
+.heading {
+  font-size: 22px;
+  font-weight: 500;
+  border-bottom: 1px solid #ff5722;
+  margin-bottom:25px;
+  color: #ff5722;
+}
+/********** Common CSS Ends **********/
+/********** Logo CSS Starts **********/  
+
